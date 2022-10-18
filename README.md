@@ -16,7 +16,7 @@
 <details><summary>Genshin Impact</summary>
 
 ![Genshin Impact](https://genshin-card.getloli.com/34/277984644.png)
-![]
+![Genshin Impact](https://genshin-card.getloli.com/5/289515880.png)
 </details>
 
 ## 💻 Working Environment
