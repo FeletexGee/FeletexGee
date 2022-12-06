@@ -8,7 +8,6 @@
 - somebody plain，maybe...😣
 - currently learning Python and [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners).
 - Busy with schoolwork. Maybe I'm not good at time management...?😕 
-- Anjiu is the most adorable one!Sooooo Lovely❤️
 
 
 ## 📫 Get in Touch
