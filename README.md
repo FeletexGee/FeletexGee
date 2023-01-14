@@ -14,8 +14,8 @@
 - I needn't to be reached.🙂
 <details><summary>Genshin Impact</summary>
 
-![Genshin Impact](https://genshin-card.getloli.com/34/277984644.png)
-![Genshin Impact](https://genshin-card.getloli.com/5/289515880.png)
+![Genshin Impact](https://genshin-card.amarea.cn/20/277984644.png)
+![Genshin Impact](https://genshin-card.amarea.cn/12/289515880.png)
 </details>
 
 ## 💻 Working Environment
