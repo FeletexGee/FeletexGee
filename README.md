@@ -13,6 +13,15 @@
 ## 📫 Get in Touch
 My sspai(Shaoshupai) homepage is shown [here](https://sspai.com/u/FeletexGee).
 
+## Interest field
+
+### Games
+Genshin Impact, ~启动！~ ，Honkai Starrail,Arknights,Phigros.
+
+### Music
+HOYO-MiX,YOASOBI,Avicii,Chilichill,Hinkik,KSHMR,etc.
+I am fascinated with Hardcore,which makes me relax.How odd.
+
 ## 💻 Working Environment
 ![Windows 11 Home 22H2](https://img.shields.io/badge/Windows%2011%20Home%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![iOS 17.1](https://img.shields.io/badge/--gray?logo=iOS&label=iOS%2017.1)
@@ -35,4 +44,4 @@ My sspai(Shaoshupai) homepage is shown [here](https://sspai.com/u/FeletexGee).
 
 ![Apple iPad Pro 11" 2021 Space Gray](https://img.shields.io/badge/--gray?logo=apple&label=Apple%20iPad%20Pro%2011"%202021%20Space%20Gray)
 ---
-## Just go and strive for your dream and greatness!🤗
+## Just go and strive for your dream!Never give up and believe in yourself.🤗
