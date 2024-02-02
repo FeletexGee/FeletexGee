@@ -4,9 +4,9 @@
 > Someone fascinated with open-source projects,technologies and machine learning.
 
 - Chinese student,freshman(Chemistry field).
-- I hate lab course!!!😡And how can I learn Calculus well!!!
+- I hate lab course!!!😡 And how can I learn Calculus well!!!
 - zh-CN / en-US
-- plan to learn Python and [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners).Picking up C++ again now.
+- plan to learn Python and [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners). Picking up C++ again now.
 - Really,really lazy. 
 
 
@@ -16,11 +16,11 @@ My sspai(Shaoshupai) homepage is shown [here](https://sspai.com/u/FeletexGee).
 ## Interest field
 
 ### Games
-Genshin Impact, ~启动！~ ，Honkai Starrail,Arknights,Phigros.
+Genshin Impact, ~启动！~ ，Honkai Starrail, Arknights, Phigros, Muse Dash, maimai DX.
 
 ### Music
-HOYO-MiX,YOASOBI,Avicii,Chilichill,Hinkik,KSHMR,etc.
-I am fascinated with Hardcore,which makes me relax.How odd.
+HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, etc.
+I am fascinated with Hardcore,which makes me relax. How odd.
 
 ## 💻 Working Environment
 ![Windows 11 Home 22H2](https://img.shields.io/badge/Windows%2011%20Home%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
