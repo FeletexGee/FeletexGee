@@ -6,7 +6,7 @@
 - Chinese student,freshman(Chemistry field).
 - I hate lab course!!!😡 And how can I learn Calculus well!!!
 - zh-CN / en-US
-- plan to learn Python and [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners). Picking up C++ again now.
+- plan to learn Python and [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners). ~Picking up C++ again now.~
 - Really,really lazy. 
 
 
@@ -16,16 +16,17 @@ My sspai(Shaoshupai) homepage is shown [here](https://sspai.com/u/FeletexGee).
 ## Interest field
 
 ### Games
-Genshin Impact, ~启动！~ ，Honkai Starrail, Arknights, Phigros, Muse Dash, maimai DX.
+Genshin Impact, ~启动！~ ，Honkai Starrail, Arknights, Phigros, Muse Dash, maimai DX, Project:Sekai(Global Server),Arcaea.
 
 ### Music
-HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, etc.
+HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, tpz+pazolite,aran,etc.
 I am fascinated with Hardcore,which makes me relax. How odd.
 
 ## 💻 Working Environment
-![Windows 11 Home 22H2](https://img.shields.io/badge/Windows%2011%20Home%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![iOS 17.1](https://img.shields.io/badge/--gray?logo=iOS&label=iOS%2017.1)
-![iPadOS 17.1](https://img.shields.io/badge/--gray?logo=iOS&label=iPadOS%2017.1)
+![Windows 11 Home 23H2](https://img.shields.io/badge/Windows%2011%20Home%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![iOS 17](https://img.shields.io/badge/--gray?logo=iOS&label=iOS%2017)
+![iPadOS 17](https://img.shields.io/badge/--gray?logo=iOS&label=iPadOS%2017)
+
 ## 📱 Devices in Use
 
 ### Phone
@@ -34,7 +35,7 @@ I am fascinated with Hardcore,which makes me relax. How odd.
 
 ### Wearable
 
-![Xiaomi Mi Band 6 NFC](https://img.shields.io/badge/Xiaomi%20Mi%20Band%206%20NFC-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Apple Watch Series 9 45mm (GPS) Space Gray](https://img.shields.io/badge/--gray?logo=apple&label=Apple%20Watch%20Series%209%2045mm%20(GPS)%20Space%20Gray)
 
 ### Computer
 
@@ -42,6 +43,6 @@ I am fascinated with Hardcore,which makes me relax. How odd.
 
 ### Tablet
 
-![Apple iPad Pro 11" 2021 Space Gray](https://img.shields.io/badge/--gray?logo=apple&label=Apple%20iPad%20Pro%2011"%202021%20Space%20Gray)
+![Apple iPad Pro 11" 2022 Space Gray](https://img.shields.io/badge/--gray?logo=apple&label=Apple%20iPad%20Pro%2011"%202022%20Space%20Gray)
 ---
 ## Just go and strive for your dream!Never give up and believe in yourself.🤗
