@@ -2,11 +2,12 @@
 ### Hi, I’m @FeletexGee,currently a freshman in China.
 
 > Someone fascinated with open-source projects,technologies and machine learning.
+> Hope to explore the world of algorithms. Also interested with Computational Chemistry and Organic Chemistry.
 
 - Chinese student,freshman(Chemistry field).
-- I hate lab course!!!😡 And how can I learn Calculus well!!!
+- I hate chem lab courses a little bit.
 - zh-CN / en-US
-- plan to learn Python and [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners). ~Picking up C++ again now.~
+- learning Python, plan to learn [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners). ~Picking up C++ again now.~
 - Really,really lazy. 
 
 
@@ -16,11 +17,11 @@ My sspai(Shaoshupai) homepage is shown [here](https://sspai.com/u/FeletexGee).
 ## Interest field
 
 ### Games
-Genshin Impact, ~启动！~ ，Honkai Starrail, Arknights, Phigros, Muse Dash, maimai DX, Project:Sekai(Global Server),Arcaea.
+Genshin Impact, ~启动！~ ，Honkai Starrail, Arknights, Phigros, Rizline, Muse Dash, maimai DX, Chunitum NEW!, Project:Sekai(Global Server),Arcaea.
 
 ### Music
 HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, tpz+pazolite,aran,etc.
-I am fascinated with Hardcore,which makes me relax. How odd.
+I am fascinated with Hardcore,especially Speedcore and Frenchcore, which makes me relax. How odd.
 
 ## 💻 Working Environment
 ![Windows 11 Home 23H2](https://img.shields.io/badge/Windows%2011%20Home%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
