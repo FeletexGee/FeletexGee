@@ -7,7 +7,8 @@
 - Chinese student, freshman(Chemistry major).
 - zh-CN / en-US | planning ja-jp
 - learning Python. 
-- Really, really lazy. 
+- Really, really lazy.
+- A cat.(?)
 
 
 ## 📫 Get in Touch
@@ -18,10 +19,12 @@ No personal Homepage available now.
 
 ### Games
 Arknights, Phigros, Rizline, maimai DX.
+
 Recent played: Genshin Impact, Honkai:Star Rail, Muse Dash, Arcaea, Hastune Miku: Colorful Stage, CHUNITUM NEW!!
 
 ### Music
 HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, tpz+pazolite, aran, Kobaryo, etc.
+
 I am fascinated with Hardcore,especially Speedcore and Frenchcore. Love HARDCORE TANO*C❤
 
 ## 💻 Working Environment
