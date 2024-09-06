@@ -1,17 +1,18 @@
 # FeletexGee
-### Hi, I’m @FeletexGee,currently a freshman in China.
+### Hi, I’m @FeletexGee, currently a freshman(fresh meow) in China.
 
 > Someone fascinated with open-source projects,technologies and machine learning.
+> 
 > Hope to explore the world of algorithms. Also interested with Computational Chemistry and Organic Chemistry.
-
-- Chinese student,freshman(Chemistry field).
+- Chinese student, freshman(Chemistry major).
 - zh-CN / en-US | planning ja-jp
 - learning Python. 
-- Really,really lazy. 
+- Really, really lazy. 
 
 
 ## 📫 Get in Touch
 My sspai(Shaoshupai) homepage is shown [here](https://sspai.com/u/FeletexGee).
+No personal Homepage available now. 
 
 ## Interest field
 
