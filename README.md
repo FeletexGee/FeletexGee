@@ -5,9 +5,8 @@
 > Hope to explore the world of algorithms. Also interested with Computational Chemistry and Organic Chemistry.
 
 - Chinese student,freshman(Chemistry field).
-- I hate chem lab courses a little bit.
-- zh-CN / en-US
-- learning Python, plan to learn [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners). ~Picking up C++ again now.~
+- zh-CN / en-US | planning ja-jp
+- learning Python. 
 - Really,really lazy. 
 
 
@@ -17,11 +16,12 @@ My sspai(Shaoshupai) homepage is shown [here](https://sspai.com/u/FeletexGee).
 ## Interest field
 
 ### Games
-Genshin Impact, ~启动！~ ，Honkai Starrail, Arknights, Phigros, Rizline, Muse Dash, maimai DX, Chunitum NEW!, Project:Sekai(Global Server),Arcaea.
+Arknights, Phigros, Rizline, maimai DX.
+Recent played: Genshin Impact, Honkai:Star Rail, Muse Dash, Arcaea, Hastune Miku: Colorful Stage, CHUNITUM NEW!!
 
 ### Music
-HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, tpz+pazolite,aran,etc.
-I am fascinated with Hardcore,especially Speedcore and Frenchcore, which makes me relax. How odd.
+HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, tpz+pazolite, aran, Kobaryo, etc.
+I am fascinated with Hardcore,especially Speedcore and Frenchcore. Love HARDCORE TANO*C❤
 
 ## 💻 Working Environment
 ![Windows 11 Home 23H2](https://img.shields.io/badge/Windows%2011%20Home%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
