@@ -1,13 +1,13 @@
 # FeletexGee
-### Hi, I’m @FeletexGee, currently a freshman(fresh meow) in China.
+### Hi, I’m @FeletexGee, currently a fresh-meow in China.
 
 > Someone fascinated with open-source projects,technologies and machine learning.
 > 
-> Hope to explore the world of algorithms. Also interested with Computational Chemistry and Organic Chemistry.
+> Hope to explore the world of algorithms. Also interested with Computational (Theoretical) Chemistry.
 - Chinese student, freshman(Chemistry major).
 - zh-CN / en-US | planning ja-jp
 - learning Python. 
-- Really, really lazy.
+- INFP-T. Really, really lazy.
 - A cat.(?)
 
 
@@ -23,9 +23,9 @@ Arknights, Phigros, Rizline, maimai DX.
 Recent played: Genshin Impact, Honkai:Star Rail, Muse Dash, Arcaea, Hastune Miku: Colorful Stage, CHUNITUM NEW!!
 
 ### Music
-HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, tpz+pazolite, aran, Kobaryo, etc.
+HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, t+pazolite, aran, Kobaryo, etc.
 
-I am fascinated with Hardcore,especially Speedcore and Frenchcore. Love HARDCORE TANO*C❤
+I am really fascinated with Hardcore! Especially Speedcore and Frenchcore. Love HARDCORE TANO*C❤
 
 ## 💻 Working Environment
 ![Windows 11 Home 23H2](https://img.shields.io/badge/Windows%2011%20Home%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
