@@ -1,21 +1,22 @@
 # FeletexGee
 ### Hi, I’m @FeletexGee, currently a fresh-meow in China.
 
-> Someone fascinated with open-source projects,technologies and machine learning.
+> Someone fascinated with open-source projects, technologies and machine learning.
 > 
-> Hope to explore the world of algorithms. Also interested with Computational (Theoretical) Chemistry.
-- Chinese student, freshman(Chemistry major).
+> Interested in Computational (Theoretical) Chemistry(My most possible research field in near future).
+- Chinese student, freshman in Chemistry major. 
 - zh-CN / en-US | planning ja-jp
 - learning Python. 
-- INFP-T. Really, really lazy.
-- A cat.(?)
+- INTP-T. Really, really lazy.
+- A cat.(?) Meow.
 
 
 ## 📫 Get in Touch
 My sspai(Shaoshupai) homepage is shown [here](https://sspai.com/u/FeletexGee).
+
 No personal Homepage available now. 
 
-## Interest field
+## Interest fields
 
 ### Games
 Arknights, Phigros, Rizline, maimai DX.
@@ -25,12 +26,12 @@ Recent played: Genshin Impact, Honkai:Star Rail, Muse Dash, Arcaea, Hastune Miku
 ### Music
 HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, t+pazolite, aran, Kobaryo, etc.
 
-I am really fascinated with Hardcore! Especially Speedcore and Frenchcore. Love HARDCORE TANO*C❤
+Really fascinated with Hardcore, especially Speedcore and Frenchcore. Love HARDCORE TANO*C❤
 
 ## 💻 Working Environment
 ![Windows 11 Home 23H2](https://img.shields.io/badge/Windows%2011%20Home%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![iOS 17](https://img.shields.io/badge/--gray?logo=iOS&label=iOS%2017)
-![iPadOS 17](https://img.shields.io/badge/--gray?logo=iOS&label=iPadOS%2017)
+![iOS 18](https://img.shields.io/badge/--gray?logo=iOS&label=iOS%2018)
+![iPadOS 18](https://img.shields.io/badge/--gray?logo=iOS&label=iPadOS%2018)
 
 ## 📱 Devices in Use
 
@@ -42,7 +43,7 @@ I am really fascinated with Hardcore! Especially Speedcore and Frenchcore. Love 
 
 ![Apple Watch Series 9 45mm (GPS) Space Gray](https://img.shields.io/badge/--gray?logo=apple&label=Apple%20Watch%20Series%209%2045mm%20(GPS)%20Space%20Gray)
 
-### Computer
+### Laptop
 
 ![Xiaomi RedmiBook Pro 15 2021](https://img.shields.io/badge/Xiaomi%20RedmiBook%20Pro%2015%202021-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
@@ -50,4 +51,6 @@ I am really fascinated with Hardcore! Especially Speedcore and Frenchcore. Love 
 
 ![Apple iPad Pro 11" 2022 Space Gray](https://img.shields.io/badge/--gray?logo=apple&label=Apple%20iPad%20Pro%2011"%202022%20Space%20Gray)
 ---
-## Just go and strive for your dream!Never give up and believe in yourself.🤗
+**Just go and strive for your dream!Never give up and believe in yourself.🤗**
+
+**Love yourself. Don't forget to pay back to someone who helped you;florish and contribute to the community.**
