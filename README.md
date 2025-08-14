@@ -1,13 +1,13 @@
 # FeletexGee
-### Hi, I’m @FeletexGee, currently a fresh-meow in China.
+### Hi, I’m @FeletexGee, currently a sophomore in China.
 
 > Someone fascinated with open-source projects, technologies and machine learning.
 > 
-> Interested in Computational (Theoretical) Chemistry(My most possible research field in near future).
-- Chinese student, freshman in Chemistry major. 
-- zh-CN / en-US | planning ja-jp
-- learning Python. 
-- INTP-T. Really, really lazy.
+> Interested in Computational (Theoretical) Chemistry, combined with AI4S. (My most possible research field in near future).
+- Chinese student, sophomore, Chemistry major. 
+- zh-CN(native) / en-US(usable) | planning ja-jp(?)
+- Python user. Planning C Sharp or so.
+- INTP-T.  **Really, really lazy.**
 - A cat.(?) Meow.
 
 
