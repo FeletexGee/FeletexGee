@@ -5,7 +5,7 @@
 > 
 > Interested in Computational (Theoretical) Chemistry, combined with AI4S. (My most possible research field in near future).
 - Chinese student, sophomore, Chemistry major. 
-- zh-CN(native) / en-US(usable) | planning ja-jp(?)
+- zh-CN(native) / en-US(fluent) | ja-jp (learning on Duolingo)
 - Python user. Planning C Sharp or so.
 - INTP-T.  **Really, really lazy.**
 - A cat.(?) Meow.
@@ -14,42 +14,43 @@
 ## 📫 Get in Touch
 My sspai(Shaoshupai) homepage is shown [here](https://sspai.com/u/FeletexGee).
 
-No personal Homepage available now. 
+Please do not hesitate to follow my WeChat Official Account. 
 
-## Interest fields
+<img width="428" height="156" alt="WeChat Official Account QR Code" src="https://github.com/user-attachments/assets/8eae9f7b-3d70-4d3f-b5f7-5447c5787ed1" />
+
+
+## Interests
 
 ### Games
-Arknights, Phigros, Rizline, maimai DX.
+> I really like rhythm games! : )
 
-Recent played: Genshin Impact, Honkai:Star Rail, Muse Dash, Arcaea, Hastune Miku: Colorful Stage, CHUNITUM NEW!!
+Arknights, maimai DX, jubeat
 
+Recent played (recent 3 mo):  Hastune Miku: Colorful Stage, Phigros, Rizline, Arknights:Endfield, Wangan 5 DX
+
+Played (haven't been played for more than 3 mo): Genshin Impact, Honkai:Star Rail, Zenless Zero, Muse Dash, Arcaea, CHUNITUM VERSE
+
+Planning: Cyberpunk 2077, Forza Horizen, etc.
 ### Music
-HOYO-MiX, YOASOBI, Avicii, Chilichill, Hinkik, KSHMR, USAO, t+pazolite, aran, Kobaryo, etc.
+USAO, t+pazolite, aran, Kobaryo, GPF, Sefa, Massive New Krew, KAJI, Yuta Imai, etc.
 
-Really fascinated with Hardcore, especially Speedcore and Frenchcore. Love HARDCORE TANO*C❤
+Love Hardcore, especially Speedcore and Frenchcore. 
 
 ## 💻 Working Environment
-![Windows 11 Home 23H2](https://img.shields.io/badge/Windows%2011%20Home%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![iOS 18](https://img.shields.io/badge/--gray?logo=iOS&label=iOS%2018)
-![iPadOS 18](https://img.shields.io/badge/--gray?logo=iOS&label=iPadOS%2018)
+![Windows 11 Home 25H2](https://img.shields.io/badge/Windows%2011%20Home%2025H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![iOS 18](https://img.shields.io/badge/iOS%2018-gray?logo=iOS)
+![iPadOS 18](https://img.shields.io/badge/iPadOS%2018-gray?logo=iOS)
 
 ## 📱 Devices in Use
+![Apple iPhone 14 Pro Space Gray](https://img.shields.io/badge/Apple%20iPhone%2014%20Pro%20Space%20Gray-gray?logo=apple)
+![Apple Watch Series 9 45mm (GPS) Space Gray](https://img.shields.io/badge/Apple%20Watch%20Series%209%2045mm%20(GPS)%20Space%20Gray-gray?logo=apple)
+![ThinkBook 16p 2025 IAX](https://img.shields.io/badge/ThinkBook%2016p%202025%20IAX-e2231a?logo=lenovo)
+![Apple iPad Pro 11" 2022 Space Gray](https://img.shields.io/badge/Apple%20iPad%20Pro%2011%22%202022%20Space%20Gray-gray?logo=apple)
+![Apple AirPods Pro 2 (USB-C)](https://img.shields.io/badge/Apple%20AirPods%20Pro%202%20(USB--C)-gray?logo=apple)
+![Dell P2421DC](https://img.shields.io/badge/Dell%20P2421DC-blue?logo=dell)
+![Keychron K3 Max sspai Edition](https://img.shields.io/badge/Keychron%20K3%20Max%20sspai%20Edition-dc143c)
 
-### Phone
 
-![Apple iPhone 14 Pro Space Gray](https://img.shields.io/badge/--gray?logo=apple&label=Apple%20iPhone%2014%20Pro%20Space%20Gray)
-
-### Wearable
-
-![Apple Watch Series 9 45mm (GPS) Space Gray](https://img.shields.io/badge/--gray?logo=apple&label=Apple%20Watch%20Series%209%2045mm%20(GPS)%20Space%20Gray)
-
-### Laptop
-
-![Xiaomi RedmiBook Pro 15 2021](https://img.shields.io/badge/Xiaomi%20RedmiBook%20Pro%2015%202021-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-
-### Tablet
-
-![Apple iPad Pro 11" 2022 Space Gray](https://img.shields.io/badge/--gray?logo=apple&label=Apple%20iPad%20Pro%2011"%202022%20Space%20Gray)
 ---
 **Just go and strive for your dream!Never give up and believe in yourself.🤗**
 
