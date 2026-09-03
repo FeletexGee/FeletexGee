@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: FeletexGee
+  structure:
+    - type: space
+      key: root-readme
+      title: README
+      path: readme
+      default: true
+      content:
+        directory: .
